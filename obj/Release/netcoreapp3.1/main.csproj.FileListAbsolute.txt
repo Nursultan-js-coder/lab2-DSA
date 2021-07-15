@@ -1,0 +1,11 @@
+/Users/user/Documents/DSA/labs/lab-2/main/main/bin/Release/netcoreapp3.1/main.deps.json
+/Users/user/Documents/DSA/labs/lab-2/main/main/bin/Release/netcoreapp3.1/main.runtimeconfig.json
+/Users/user/Documents/DSA/labs/lab-2/main/main/bin/Release/netcoreapp3.1/main.runtimeconfig.dev.json
+/Users/user/Documents/DSA/labs/lab-2/main/main/bin/Release/netcoreapp3.1/main.dll
+/Users/user/Documents/DSA/labs/lab-2/main/main/bin/Release/netcoreapp3.1/main.pdb
+/Users/user/Documents/DSA/labs/lab-2/main/main/obj/Release/netcoreapp3.1/main.AssemblyInfoInputs.cache
+/Users/user/Documents/DSA/labs/lab-2/main/main/obj/Release/netcoreapp3.1/main.AssemblyInfo.cs
+/Users/user/Documents/DSA/labs/lab-2/main/main/obj/Release/netcoreapp3.1/main.csproj.CoreCompileInputs.cache
+/Users/user/Documents/DSA/labs/lab-2/main/main/obj/Release/netcoreapp3.1/main.dll
+/Users/user/Documents/DSA/labs/lab-2/main/main/obj/Release/netcoreapp3.1/main.pdb
+/Users/user/Documents/DSA/labs/lab-2/main/main/obj/Release/netcoreapp3.1/main.genruntimeconfig.cache
